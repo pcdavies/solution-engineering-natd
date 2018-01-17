@@ -41,7 +41,7 @@ During this presentation, we would like you to provide an overview (or demonstra
 
 ## Touch the Cloud Presentation
 
-![Touch The Cloud](../../common/images/Touch-the-Cloud.jpg)
+![Touch The Cloud](./images/Touch-the-Cloud.jpg)
 
 <a name="Touch-the-Cloud-Presentation"></a>
 
