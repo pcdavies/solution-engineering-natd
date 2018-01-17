@@ -1,2 +1,0 @@
-# solution-engineering-natd
-Article
