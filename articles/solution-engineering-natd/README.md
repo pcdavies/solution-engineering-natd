@@ -18,14 +18,14 @@
 
 The face to face interview process consists of a technical interview outlined below:
 
-### **Technical Interview** - 45 to 50 minutes
+### Technical Presentation and Demo - up to 45 minutes
 
 | Interview Section | Minutes | Description |
 | --- | --- | --- | 
-| Overview | 3 - 5 | Brief overview of yourself, covering your technical experience and capabilities |
-| Recent Project Presentation | 10 - 12 | Brief description/presentation on a technical development project on which you have worked |
-| Touch the Cloud Presentation | 10 - 12 | Brief presentation on Oracle Cloud Product(s) of interest and relevance |
-| Technical Q & A Interview | 20 | Technical Question and Answer Interview |
+| Overview | 3 - 5 | Brief overview of yourself, covering your capabilities and technical experience |
+| Journey to Cloud Presentation | 15 | Brief overview of Oracle's cloud platform to a potential customer that is interested in making the journey to the cloud |
+| Touch the Cloud - Oracle Cloud Research and Demo | 15 | Brief demo on Oracle Cloud Product(s) of interest and relevence (Trial Account) |  
+| Technical Q & A Interview | 10 | Technical Question and Answer Interview |
 
 <a name="Overview-Presentation"></a>
 
@@ -33,13 +33,30 @@ The face to face interview process consists of a technical interview outlined be
 
 During this presentation, we ask that you provide a brief overview of yourself, including your technical experience and skills. It's not necessary to go into detail, as we will ask more questions during the [Technical Question and Answer Interview](#Technical-Question-and-Answer-Interview) section of the interview. 
 
-<a name="Recent-Project-Presentation"></a>
+<a name="Journey-to-Cloud:-Presentation"></a>
 
-## Recent Project Presentation
+## Journey to Cloud: Presentation
 
-During this presentation, we would like you to provide an overview (or demonstration) of a development project on which you have recently worked. Provide examples of the technology, programming languages, and methodologies you used during this project. Feel free to use the whiteboard or laptop available in the interview room. If you use powerpoint, please keep your presentation to approximately 5 slides.  
+The scenario for the presentation is one where you need to present a technical/business overview of Oracle’s cloud platform to a potential customer that is interested in making the journey to the cloud. The customer audience consists of technical and business level attendees. This customer is interested in moving to the cloud but not sure whether it makes sense and whether Oracle is the right vendor. They are strictly on-prem today.  It is important to address both the business value and the technical value of the proposed solution.
 
-## Touch the Cloud Presentation
+This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below. This will leave enough time for Q&A.  A [Powerpoint deck](FY18 Candidate Cloud Presentation.pptx) is attached to get you started. You do not have to use this specific presentation so feel free to customize it.  We suggest that you use your own words in presenting the slides. 
+
+Key focus areas:
+•	Expect the audience to ask for clarification on any content you show. 
+•	Make sure you know the differences between DaaS, SaaS, PaaS and IaaS.
+•	Expect technical questions throughout the presentation and specifically slide 9.
+
+Below are some links to study Oracle’s cloud platform, yet feel free to use other resources as well:
+
+[http://Oracle.com/cloud](http://Oracle.com/cloud)
+[https://www.oracle.com/cloud/cloud-summary.html](https://www.oracle.com/cloud/cloud-summary.html)
+[https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html](https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html)
+[https://www.oracle.com/cloud/saas.html](https://www.oracle.com/cloud/saas.html)
+[https://www.oracle.com/cloud/paas.html](https://www.oracle.com/cloud/paas.html)
+[https://www.oracle.com/cloud/iaas.html](https://www.oracle.com/cloud/iaas.html)
+
+
+## Touch the Cloud: Oracle Cloud Research and Demo
 
 ![Touch The Cloud](./images/Touch-the-Cloud.jpg)
 
@@ -49,29 +66,35 @@ During this presentation, we would like you to provide an overview (or demonstra
 
 During this presentation, we ask that you provide a brief summary of the Oracle Cloud Products you have investigated, and that you feel are of interest and relevance. You can find the information you need from Oracle's main [Cloud Home Page](https://cloud.oracle.com/) website. From this website you can investigate Oracle's three categories of Cloud Offerings: [Platform as a Service](https://cloud.oracle.com/en_US/paas), [Infrastructure as a Service](https://cloud.oracle.com/en_US/iaas) and [Software as a Service](https://cloud.oracle.com/en_US/saas). Note: The job for which you are applying will focus primarily on **Platform as a Service** and **Infrastructure as a Service**.  
 
-### **Touch the Cloud Presentation Options**:
+Using an [Oracle Trial](https://github.com/oracle/learning-library/blob/master/articles/solution-engineering-natd/README.md#Oracle-Trial-Account) account you can research more in-depth any of the Oracle **Infrastructure** or **Platform** Cloud Services, and <u>**present or demonstrate in up to 15 minutes**</u> what you learned from your hands-on experience and interest in these products. ***The Trial account is a $300 credit for a 30 day use.*** Many of Oracle's **Platform** Services (e.g: Application Container Cloud Service, Container Cloud Service, Developer Cloud Service, Oracle Database / MSQL Cloud Services and Java Cloud Service provide simple demonstrations. Examples are also available using Oracle's **Infrastructure** Cloud Services.
 
-When providing your Oracle Cloud Product Presentation, you have two options. With both of these options, if you choose to use Powerpoint, please keep your presentation to 5 slides or less. 
+- ***Note***: ensure you ***Do NOT*** select "***Yes, convert my account to Pay as you go at the end of the free promotion***" located in the Billing Section, as Checking this option would convert your account to Pay as you go after the $300.00 credit or 30 days have been fulfilled. 
+- **Note**: You would need a valid credit card to register for an account. If you don't have a credit card - please let a recruiter know ASAP - so they can work with you to help you out. 
 
-- **Option 1** - Oracle Cloud Investigation and Demo:
+- **Note**: Depending on the cloud services that you use, the consumption of your cloud credits can vary greatly, so ensure that you understand the pricing structure for each cloud service you intend to use. Also, based on the cost of an individual cloud services, you may want to shut that service down when not in use to conserve credits. Every cloud service will contain information about that service's pricing. As examples, here are links to a few cloud service pricing pages: 
 
-    If you have an interest in acquiring an Oracle Trial account for a more in-depth Oracle Cloud investigation, details are provided below on the steps to acquire an [Oracle Trial](#Oracle-Trial-Account). 
-    
-    Using an Oracle Trial account you can investigate any of the Oracle **Infrastructure** or **Platform** Cloud Services, and present or demonstrate what you learned about your experience and interest in these products. Many of Oracle's **Platform** Services (e.g: Application Container Cloud Service, Container Cloud Service, Developer Cloud Service, Oracle Database / MSQL Cloud Services and Java Cloud Service provide simple demonstrations. Examples are also available using Oracle's **Infrastructure** Cloud Services.
-    
-    - **Note**: ensure you do ***NOT*** select "**Yes, convert my account to Pay as you go at the end of the free promotion**" located in the Billing Section, as Checking this option would convert your account to Pay as you go after the $300.00 credit or 30 days have been fulfilled. 
+    - [Database Cloud Service Pricing](https://cloud.oracle.com/en_US/database/pricing)
+    - [MySQL Cloud Service Pricing](https://cloud.oracle.com/en_US/mysql/pricing)
+    - [Application Cloud Service Pricing](https://cloud.oracle.com/application-container-cloud/pricing)
+    - [Developer Cloud Service Pricing](https://cloud.oracle.com/en_US/developer-service/pricing)
+    - [Container Cloud Service Pricing](https://cloud.oracle.com/en_US/container/pricing)
 
-    - **Note**: Depending on the cloud services that you use, the consumption of your cloud credits can vary greatly, so ensure that you understand the pricing structure for each cloud service you intend to use. Also, based on the cost of an individual cloud services, you may want to shut that service down when not in use to conserve credits. Every cloud service will contain information about that service's pricing. As examples, here are links to a few cloud service pricing pages: 
+If you are not able to secure an Oracle Trial account please notify your recruiter ASAP. 
 
-        - [Database Cloud Service Pricing](https://cloud.oracle.com/en_US/database/pricing)
-        - [MySQL Cloud Service Pricing](https://cloud.oracle.com/en_US/mysql/pricing)
-        - [Application Cloud Service Pricing](https://cloud.oracle.com/application-container-cloud/pricing)
-        - [Developer Cloud Service Pricing](https://cloud.oracle.com/en_US/developer-service/pricing)
-        - [Container Cloud Service Pricing](https://cloud.oracle.com/en_US/container/pricing)
+### **Expectation** 
 
-- **Option 2** - Oracle Cloud Investigation:
+We expect that you have made a sincere effort in using the cloud service(s) that you select to do the following:
 
-    As an alternative to getting a Trial Account, you can investigate the **Platform** and **Infrastructure** Services and present back some of your findings and interests. You have flexibility in what you present, so have fun with it. A few pointers: We are mostly interested in your understanding of the technical functionality of Oracle's Cloud Services, what you feel Oracle's Cloud capabilities are, and how they may compare to Oracle's competitor's solutions. We're not interested in a sales pitch, we're more interested in your technical understanding. 
+- Show your capability to learn Oracle’s cloud services
+
+- Provide us with critical feedback if there were roadblocks 
+
+- Build out a simple solution/product/project leveraging one or more Oracle Cloud services.  While we would like to see a finished product (even if it is simple), we are more interested in your approach to building things out.  
+
+- Suggest you look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  Ideally, we are looking for a full-stack development that shows us the capability to not only create front-end Apps, but also an understanding of how to connect to the backend systems.  
+
+- Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.  
+
 
 <a name="Technical-Question-and-Answer-Interview"></a>
 
