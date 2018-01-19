@@ -2,19 +2,17 @@
 
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://oracle.github.io/learning-library/articles/solution-engineering-natd/)
 
-## Table of Contents
+<!-- ## Table of Contents
 - [Interview Schedule](#Interview-Schedule)
 - [Overview Presentation](#Overview-Presentation)
-- [Recent Project Presentation](#Recent-Project-Presentation)
-- [Touch the Cloud Presentation](#Touch-the-Cloud-Presentation)
+- [Journey to the Cloud Presentation](#Journey-to-Cloud-Presentation)
 - [Technical Question and Answer Interview](#Technical-Question-and-Answer-Interview)
 - [Visual Aids](#Visual-Aids)
 - [Oracle Trial Account](#Oracle-Trial-Account)
-- [Configure Replication Policy](#Configure-Your-Storage-Replication-Policy)
+- [Configure Replication Policy](#Configure-Your-Storage-Replication-Policy) -->
 
-<a name="Interview-Schedule"></a>
 
-## Interview Schedule
+## Interview Schedule 
 
 The face to face interview process consists of a technical interview outlined below:
 
@@ -27,13 +25,13 @@ The face to face interview process consists of a technical interview outlined be
 | Touch the Cloud - Oracle Cloud Research and Demo | 15 | Brief demo on Oracle Cloud Product(s) of interest and relevence (Trial Account) |  
 | Technical Q & A Interview | 10 | Technical Question and Answer Interview |
 
-<a name="Overview-Presentation"></a>
+<!-- <a name="Overview-Presentation"></a> -->
 
 ## Overview Presentation
 
 During this presentation, we ask that you provide a brief overview of yourself, including your technical experience and skills. It's not necessary to go into detail, as we will ask more questions during the [Technical Question and Answer Interview](#Technical-Question-and-Answer-Interview) section of the interview. 
 
-<a name="Journey-to-Cloud:-Presentation"></a>
+<!-- <a name="Journey-to-Cloud:-Presentation"></a> -->
 
 ## Journey to Cloud: Presentation
 
@@ -42,25 +40,25 @@ The scenario for the presentation is one where you need to present a technical/b
 This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below. This will leave enough time for Q&A.  A [Powerpoint deck](FY18 Candidate Cloud Presentation.pptx) is attached to get you started. You do not have to use this specific presentation so feel free to customize it.  We suggest that you use your own words in presenting the slides. 
 
 Key focus areas:
-•	Expect the audience to ask for clarification on any content you show. 
-•	Make sure you know the differences between DaaS, SaaS, PaaS and IaaS.
-•	Expect technical questions throughout the presentation and specifically slide 9.
+- Expect the audience to ask for clarification on any content you show. 
+- Make sure you know the differences between DaaS, SaaS, PaaS and IaaS.
+- Expect technical questions throughout the presentation and specifically slide 9.
 
 Below are some links to study Oracle’s cloud platform, yet feel free to use other resources as well:
 
-[http://Oracle.com/cloud](http://Oracle.com/cloud)
-[https://www.oracle.com/cloud/cloud-summary.html](https://www.oracle.com/cloud/cloud-summary.html)
-[https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html](https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html)
-[https://www.oracle.com/cloud/saas.html](https://www.oracle.com/cloud/saas.html)
-[https://www.oracle.com/cloud/paas.html](https://www.oracle.com/cloud/paas.html)
-[https://www.oracle.com/cloud/iaas.html](https://www.oracle.com/cloud/iaas.html)
+- [http://Oracle.com/cloud](http://Oracle.com/cloud)
+- [https://www.oracle.com/cloud/cloud-summary.html](https://www.oracle.com/cloud/cloud-summary.html)
+- [https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html](https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html)
+- [https://www.oracle.com/cloud/saas.html](https://www.oracle.com/cloud/saas.html)
+- [https://www.oracle.com/cloud/paas.html](https://www.oracle.com/cloud/paas.html)
+- [https://www.oracle.com/cloud/iaas.html](https://www.oracle.com/cloud/iaas.html)
 
 
 ## Touch the Cloud: Oracle Cloud Research and Demo
 
 ![Touch The Cloud](./images/Touch-the-Cloud.jpg)
 
-<a name="Touch-the-Cloud-Presentation"></a>
+<!-- <a name="Touch-the-Cloud-Presentation"></a> -->
 
 ### **Touch the Cloud Presentation Overview**:
 
@@ -96,7 +94,7 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.  
 
 
-<a name="Technical-Question-and-Answer-Interview"></a>
+<!-- <a name="Technical-Question-and-Answer-Interview"></a> -->
 
 ## Technical Question and Answer Interview
 
@@ -107,7 +105,7 @@ During this section of the interview we will ask technical questions based on yo
 - The interview room will be furnished with a whiteboard and laptop that you can use to present your [Recent Project](#Recent-Project-Presentation) and [Touch the Cloud](#Touch-the-Cloud-Presentation) Presentations.
 - Oracle Supplied Laptop: We will have a laptop and prejector available for your use. The laptop will have connectivity to the internet, and you can bring a USB drive if you desire to load a presentation to the laptop.
 
-<a name="Oracle-Trial-Account"></a>
+<!-- <a name="Oracle-Trial-Account"></a> -->
 
 # Oracle Trial Account
 
@@ -115,114 +113,132 @@ Acquiring an Oracle Account is not required for the interview, however, doing so
 
 To get an Oracle Trial account, please go the [Oracle Try It](https://cloud.oracle.com/tryit). From this website you can find answers to your questions concerning the Free Trial account, along with step by step instructions on how to register your account. After your account is provisioned, some of the services you may desire to use require that your Account's Storage Replication policy is set prior to using those services. Those instructions are provided later in this guide.
 
-Along with the instruction provided on the Oracle website and **in this document**, you can Click on this [Video Link](https://publicdocs-corp.documents.us2.oraclecloud.com/documents/link/LD408AE98AE514A9D8A5B144F6C3FF17C1177E4725F3/fileview/D5BB8965F597992573C1B2A4F6C3FF17C1177E4725F3/_CloudCredits_VideoEdit.mp4) to view a short video showing how to acquire a trial account. 
+Along with the instruction provided on the Oracle website and **in this document**, you can Click on this [Video Link](https://youtu.be/dQw4w9WgXcQ)) to view a short video showing how to acquire a trial account. 
 
 ## Step by step instructions on Provisioning your Account
 
+### Prerequisites (have these ready)
+* Cell Phone 
+* Credit Card
+* Email Address
+
+
 ### 1. View Details and Sign Up
 
-- From the **TryIt** page, click on the **View Details & Sign Up** button
+- From the [**TryIt**](https://cloud.oracle.com/en_US/tryit) page, click on the [**Create a Free Account**](https://myservices.us.oraclecloud.com/mycloud/signup?language=en) button
 
-    ![](./images/image001.png)
+    ![](./images/tryit.png)
 
-- Click on the **Get started for free** link
-
-    ![](./images/image002.png)
 
 ### 2. Create your Account
 
-- Enter the required information on the **Create an Oracle Account...** page, and click on **Create Account**.
+- Enter the required information on the **Sign Up for Free Oracle Cloud Promotion** page, and fill the **Account Details** with your information. 
 
-    ![](./images/image003.png)
+    ![](./images/account_details.png)
 
-- The following dialog indicates that you will receive an confirmation email.
 
-    ![](./images/image004.png)
-
-- Check your email, and click on the **Verify email address** button contained in the received email. 
-
-    ![](./images/image005.png)
-
-- After Verifing your email address, enter your email address into the **User Name** field, enter your **Password**, then click on **Sign In**.
-
-    ![](./images/image006.png)
-
-### 3. Verify your Phone Number
+### 3. Verify your Mobile Phone
 
 - Enter your **Mobile Phone Number** and click on **Request Code**
 
-    ![](./images/image007.png)
+    ![](./images/mobile_verification.png)
+
+- You should get a text message from 228-84
+
+    ![](./images/verification_text.png)
 
 - Enter the **Verification Code** you receive via a phone text message.
 
-    ![](./images/image008.png)
+    ![](./images/mobile_verified.png)
 
-### 4. Enter Account Information
-
-- Enter the required account information.
-
-    ![](./images/image009.png)
+### 4. Add Credit Card
 
 - Read the information about the use of your credit card, and Click on the **Add Payment Method** button.
 
-    ![](./images/image010.png)
+    ![](./images/add_payment_method.png)
+
+- You may be asked to use a Verified Address. If the Verified Address is correct go ahead and use it, if not provide one.
 
 - Enter your credit card information, and click on **Finish**.
 
-    ![](./images/image011.png)
+    ![](./images/cc_info.png)
 
 - **Accept** the terms and conditions, then click on the **Complete** Button. 
 
-    ![](./images/image012.png)
+    ![](./images/complete.png)
 
-- Note the following steps.
+- Hold on for your account information! They should come to your email within 15 minutes.
 
-    ![](./images/image013.png)
+    ![](./images/thank_you.png)
 
-### 5. Account Confirmation
+### 5. Account Confirmation Email
 
-- The following is an example email confirming your Trial Account request.
+- You will receive a confirmation email from oraclecloudadmin_ww@oracle.com with access details **save this email**. Click the **Get Started with Oracle Cloud** button. This will direct you to a login page. This will be followed by a similar email with more information about specific services. 
 
-    ![](./images/image014.png)
+    ![](./images/confirmation_email.png)
 
-### 6. Confirmation Email
+- Sign in with the **Username** and **Temporary Password** given in the confirmation email. 
 
-- Once your account has been provisioned, you will receive a **Confirmation Email** that will provide you with your **Identity Domain**, **Password** and **Username**. This email also contains a **My Services URL** link that will allow you to access and log into your account. You may also receive an separate email describing how to connect into to VPN, but in most cases VPN will not be needed for testing. 
+    ![](./images/initial_login.png)
 
-    ![](./images/image015.png)
+- Create a **New Password** (your "Old Password" is the temporary one from the confirmation email). Once all the Password Criteria are fulfilled click **Submit** and make sure to record this new password. 
+
+    ![](./images/new_password.png)
+
+- Congradulations! You've logged into [Oracle Cloud](https://cloud.oracle.com)
+
+    ![](./images/guided_journey.png)
+
+- Once you've updated your password you'll recieve a confirmation email from no-reply@oracle.com. 
+
+    ![](./images/update_confirmation.png)
+
+### 6. Welcome to Oracle Cloud!
 
 
-<a name="Configure-Your-Storage-Replication-Policy"></a>
+
+- Get going creating a dazzling [Touch the Cloud](#Touch-The-Cloud) presentation! If you need help Oracle has a presence on [YouTube](https://www.youtube.com/user/Oracle), [Medium](https://medium.com/oracledevs), as well as [official documentation](https://docs.oracle.com/en/), and [official blogs](https://blogs.oracle.com/)
+
+
+<!-- <a name="Configure-Your-Storage-Replication-Policy"></a> -->
 
 ## Configure Your Storage Replication Policy
 
 Once your Trial Account is fully approved and provisioned, you will need to set your Storage Replication Policy. We recommend that you do this as soon as your account is fully provisioned, otherwise some of the PaaS services that may be of interest will not work correctly. The Replication Policy is not automatically set to allow for flexibility on how how it is configured.
 
-
 ### Login to your Oracle Cloud Account
-- Using the link and credentials provided in your confirmation email, log into your Oracle Trial Account. 
+- To **log in** to **My Services Dashboard** or after logging out, go to [cloud.oracle.com](https://cloud.oracle.com) and click **Sign In**
 
+    ![](./images/cloud_oracle_com.png)
+
+- This will direct you to [cloud.oracle.com/en_US/sign-in](https://cloud.oracle.com/en_US/sign-in). Sign in with the **Cloud Account** from your initial confirmation email. 
+
+    ![](./images/myservices_sign_in.png) 
+    
 - Once logged in, you will be presented with a Dashboard displaying the various cloud services available to your account.
 
-    ![](images/Picture100-4.png)
+    ![](images/myservices_dashboard.png)
 
-- If your **Storage** cloud service are not visible, **click** on the **Customize Dashboard**, which will allow you to add services to the dashboard by clicking **Show.** For example, you can show the **Application Container, Developer and Storage** cloud services. If you do not want to see a specific service, click **Hide**
+- If your **Storage** cloud service are not visible, **click** on the **Customize Dashboard**.
 
-    ![](images/Picture100-5.png)
+    ![](./images/customize_dashboard.png)
+-  This will allow you to add services to the dashboard by clicking **Show.** For example, you can show the **Application Container, Developer and Storage** cloud services. If you do not want to see a specific service, click **Hide**. In this case click **Show** for **Storage Classic**
+
+    ![](images/show_storage_classic.png)
 
 ### Check/Set Storage Replication Policy
 
 Depending on the state of your Cloud Account, you will need to set the **Replication Policy**, if it has not been previously set. In this step you will go to the Storage Cloud Service to check on the status of the Replicaton Policy. 
 
-- Click on the **Storage** Cloud Service
-    ![](images/Picture-01.png)
+- Click on the **Storage Classic** Cloud Service
+    ![](images/storage_classic.png)
 
-- Click on the **Open Service Console** icon at the top of the screen.
+- Click on the **Open Service Console** icon at the top of the screen. For conveinience save the **REST Endpoint**, you will need it to create certain services.
 
-    ![](images/Picture-01.5.png)
+    ![](images/open_service_console.png)
 
 - If the Replication Policy has not been set, use the default and click on the **Set Policy** button. If the message is not displayed, your replication policy has already been set, and your Cloud Account is ready for use.
 
-    ![](images/Picture-02.5.png)
+    ![](images/set_replication_policy.png)
 
 - Your Replication Policy is now set, and Services that require a Replication Policy will work correctly.
