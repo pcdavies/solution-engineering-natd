@@ -2,16 +2,6 @@
 
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://oracle.github.io/learning-library/articles/solution-engineering-natd/)
 
-<!-- ## Table of Contents
-- [Interview Schedule](#Interview-Schedule)
-- [Overview Presentation](#Overview-Presentation)
-- [Journey to the Cloud Presentation](#Journey-to-Cloud-Presentation)
-- [Technical Question and Answer Interview](#Technical-Question-and-Answer-Interview)
-- [Visual Aids](#Visual-Aids)
-- [Oracle Trial Account](#Oracle-Trial-Account)
-- [Configure Replication Policy](#Configure-Your-Storage-Replication-Policy) -->
-
-
 ## Interview Schedule 
 
 The face to face interview process consists of a technical interview outlined below:
@@ -25,13 +15,9 @@ The face to face interview process consists of a technical interview outlined be
 | Touch the Cloud - Oracle Cloud Research and Demo | 15 | Brief demo on Oracle Cloud Product(s) of interest and relevence (Trial Account) |  
 | Technical Q & A Interview | 10 | Technical Question and Answer Interview |
 
-<!-- <a name="Overview-Presentation"></a> -->
-
 ## Overview Presentation
 
 During this presentation, we ask that you provide a brief overview of yourself, including your technical experience and skills. It's not necessary to go into detail, as we will ask more questions during the [Technical Question and Answer Interview](#Technical-Question-and-Answer-Interview) section of the interview. 
-
-<!-- <a name="Journey-to-Cloud:-Presentation"></a> -->
 
 ## Journey to Cloud: Presentation
 
@@ -57,8 +43,6 @@ Below are some links to study Oracle’s cloud platform, yet feel free to use ot
 ## Touch the Cloud: Oracle Cloud Research and Demo
 
 ![Touch The Cloud](./images/Touch-the-Cloud.jpg)
-
-<!-- <a name="Touch-the-Cloud-Presentation"></a> -->
 
 ### **Touch the Cloud Presentation Overview**:
 
@@ -93,9 +77,6 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.  
 
-
-<!-- <a name="Technical-Question-and-Answer-Interview"></a> -->
-
 ## Technical Question and Answer Interview
 
 During this section of the interview we will ask technical questions based on your experience, and our requirements of the Solution Engineering position. We hope to gain a better understanding of your development expertise, your understanding of development methodologies, and your experience with various programming languages and open source tools and frameworks. 
@@ -105,15 +86,11 @@ During this section of the interview we will ask technical questions based on yo
 - The interview room will be furnished with a whiteboard and laptop that you can use to present your [Recent Project](#Recent-Project-Presentation) and [Touch the Cloud](#Touch-the-Cloud-Presentation) Presentations.
 - Oracle Supplied Laptop: We will have a laptop and prejector available for your use. The laptop will have connectivity to the internet, and you can bring a USB drive if you desire to load a presentation to the laptop.
 
-<!-- <a name="Oracle-Trial-Account"></a> -->
-
 # Oracle Trial Account
 
 Acquiring an Oracle Account is not required for the interview, however, doing so will allow you to see first hand some of Oracle's cloud products before your interview. 
 
 To get an Oracle Trial account, please go the [Oracle Try It](https://cloud.oracle.com/tryit). From this website you can find answers to your questions concerning the Free Trial account, along with step by step instructions on how to register your account. After your account is provisioned, some of the services you may desire to use require that your Account's Storage Replication policy is set prior to using those services. Those instructions are provided later in this guide.
-
-Along with the instruction provided on the Oracle website and **in this document**, you can Click on this [Video Link](https://youtu.be/dQw4w9WgXcQ)) to view a short video showing how to acquire a trial account. 
 
 ## Step by step instructions on Provisioning your Account
 
@@ -199,8 +176,6 @@ Along with the instruction provided on the Oracle website and **in this document
 
 - Get going creating a dazzling [Touch the Cloud](#Touch-The-Cloud) presentation! If you need help Oracle has a presence on [YouTube](https://www.youtube.com/user/Oracle), [Medium](https://medium.com/oracledevs), as well as [official documentation](https://docs.oracle.com/en/), and [official blogs](https://blogs.oracle.com/)
 
-
-<!-- <a name="Configure-Your-Storage-Replication-Policy"></a> -->
 
 ## Configure Your Storage Replication Policy
 
