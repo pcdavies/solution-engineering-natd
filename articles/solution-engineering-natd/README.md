@@ -83,7 +83,7 @@ During this section of the interview we will ask technical questions based on yo
 
 ## Visual Aids
 
-- The interview room will be furnished with a whiteboard and laptop that you can use to present your [Recent Project](#Recent-Project-Presentation) and [Touch the Cloud](#Touch-the-Cloud-Presentation) Presentations.
+- The interview room will be furnished with a whiteboard and laptop that you can use to present your **Journey to Cloud** and **Touch the Cloud** Presentations.
 - Oracle Supplied Laptop: We will have a laptop and prejector available for your use. The laptop will have connectivity to the internet, and you can bring a USB drive if you desire to load a presentation to the laptop.
 
 # Oracle Trial Account
@@ -174,7 +174,7 @@ To get an Oracle Trial account, please go the [Oracle Try It](https://cloud.orac
 
 
 
-- Get going creating a dazzling [Touch the Cloud](#Touch-The-Cloud) presentation! If you need help Oracle has a presence on [YouTube](https://www.youtube.com/user/Oracle), [Medium](https://medium.com/oracledevs), as well as [official documentation](https://docs.oracle.com/en/), and [official blogs](https://blogs.oracle.com/)
+- Get going creating a dazzling **Touch the Cloud** presentation! If you need help Oracle has a presence on [YouTube](https://www.youtube.com/user/Oracle), [Medium](https://medium.com/oracledevs), as well as [official documentation](https://docs.oracle.com/en/), and [official blogs](https://blogs.oracle.com/)
 
 
 ## Configure Your Storage Replication Policy
