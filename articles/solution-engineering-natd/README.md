@@ -17,13 +17,13 @@ The face to face interview process consists of a technical interview outlined be
 
 ## Overview Presentation
 
-During this presentation, we ask that you provide a brief overview of yourself, including your technical experience and skills. It's not necessary to go into detail, as we will ask more questions during the [Technical Question and Answer Interview](#Technical-Question-and-Answer-Interview) section of the interview. 
+During this presentation, we ask that you provide a brief overview of yourself, including your technical experience and skills. It's not necessary to go into detail, as we will ask more questions during the **Technical Question and Answer Interview** section of the interview. 
 
 ## Journey to Cloud: Presentation
 
 The scenario for the presentation is one where you need to present a technical/business overview of Oracle’s cloud platform to a potential customer that is interested in making the journey to the cloud. The customer audience consists of technical and business level attendees. This customer is interested in moving to the cloud but not sure whether it makes sense and whether Oracle is the right vendor. They are strictly on-prem today.  It is important to address both the business value and the technical value of the proposed solution.
 
-This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below. This will leave enough time for Q&A.  A [Powerpoint deck](FY18 Candidate Cloud Presentation.pptx) is attached to get you started. You do not have to use this specific presentation so feel free to customize it.  We suggest that you use your own words in presenting the slides. 
+This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below. This will leave enough time for Q&A.  A [Powerpoint deck](FY18_Candidate_Cloud_Presentation.pptx) is attached to get you started. You do not have to use this specific presentation so feel free to customize it.  We suggest that you use your own words in presenting the slides. 
 
 Key focus areas:
 - Expect the audience to ask for clarification on any content you show. 
@@ -83,7 +83,7 @@ During this section of the interview we will ask technical questions based on yo
 
 ## Visual Aids
 
-- The interview room will be furnished with a whiteboard and laptop that you can use to present your [Recent Project](#Recent-Project-Presentation) and [Touch the Cloud](#Touch-the-Cloud-Presentation) Presentations.
+- The interview room will be furnished with a whiteboard and laptop that you can use to present your **Journey to Cloud** and **Touch the Cloud** Presentations.
 - Oracle Supplied Laptop: We will have a laptop and prejector available for your use. The laptop will have connectivity to the internet, and you can bring a USB drive if you desire to load a presentation to the laptop.
 
 # Oracle Trial Account
@@ -174,7 +174,7 @@ To get an Oracle Trial account, please go the [Oracle Try It](https://cloud.orac
 
 
 
-- Get going creating a dazzling [Touch the Cloud](#Touch-The-Cloud) presentation! If you need help Oracle has a presence on [YouTube](https://www.youtube.com/user/Oracle), [Medium](https://medium.com/oracledevs), as well as [official documentation](https://docs.oracle.com/en/), and [official blogs](https://blogs.oracle.com/)
+- Get going creating a dazzling **Touch the Cloud** presentation! If you need help Oracle has a presence on [YouTube](https://www.youtube.com/user/Oracle), [Medium](https://medium.com/oracledevs), as well as [official documentation](https://docs.oracle.com/en/), and [official blogs](https://blogs.oracle.com/)
 
 
 ## Configure Your Storage Replication Policy
